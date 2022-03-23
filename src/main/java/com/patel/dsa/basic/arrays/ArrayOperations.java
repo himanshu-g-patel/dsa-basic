@@ -1,7 +1,5 @@
 package com.patel.dsa.basic.arrays;
 
-import java.util.Scanner;
-
 public class ArrayOperations {
     public static void main(String[] args) {
 

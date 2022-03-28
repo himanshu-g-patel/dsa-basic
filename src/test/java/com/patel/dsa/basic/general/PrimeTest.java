@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 public class PrimeTest {
     @Test
     void testIsPrime() {
-        assertTrue(Prime.isPrime(7));
+        assertTrue(Prime.isPrime(101));
     }
 
     @Test
